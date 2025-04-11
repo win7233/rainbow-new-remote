@@ -10,7 +10,7 @@ rainbow.speed(0)
 rainbow.width(40)  # Set the width of the turtle pen to 40
 
 # Define the rainbow colours
-colours = ["red", "orange", "yellow", "green", "blue"]
+colours = ["red", "orange", "yellow", "green", "blue", "violet"]
 
 # Set the starting position to the left side of the screen
 rainbow.penup()
